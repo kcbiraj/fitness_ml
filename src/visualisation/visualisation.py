@@ -190,7 +190,7 @@ for label in labels:
             ax[1].set_xlabel("samples")
 
             plt.savefig(
-                f"../../reports/figures/{label}_{participant}.png",
+                f"../../reports/figures/data_visualisation/{label}_{participant}.png",
                 dpi=300,
             )
 
