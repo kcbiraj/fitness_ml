@@ -59,3 +59,24 @@ from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, confusion_matrix
+
+
+## 📈 Model Performance
+
+## 📌 Interpretation
+- **Random Forest achieved the best performance at 98.875% accuracy.
+- **KNN and SVM also performed well but slightly less accurately.
+
+## ✅ Conclusion
+The project successfully classified activities and counted repetitions. The Random Forest Classifier was the most effective model for activity recognition, and the peak detection method provided reliable repetition counts.
+
+📚 References
+- **Project Data: This dataset is from Dave Ebbelaar’s Master's Thesis.
+
+- **Code Reference: This repository is based on the book "Machine Learning for the Quantified Self" by Mark Hoogendoorn and Burkhardt Funk, published by Springer in 2018. The code is available on GitHub.
+
+- **License: The code is made available under the GNU public license. Please cite the book in your publications:
+Hoogendoorn, M., & Funk, B. (2018). Machine Learning for the Quantified Self – On the Art of Learning from Sensory Data. Springer.
+
+
+
