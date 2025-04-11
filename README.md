@@ -59,7 +59,7 @@ from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, confusion_matrix
-
+```
 
 ## 📈 Model Performance
 
@@ -71,12 +71,11 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 The project successfully classified activities and counted repetitions. The Random Forest Classifier was the most effective model for activity recognition, and the peak detection method provided reliable repetition counts.
 
 📚 References
-- **Project Data: This dataset is from Dave Ebbelaar’s Master's Thesis.
+- **Project Data: This dataset is from **[Dave Ebbelaar](https://docs.datalumina.io/xLAtq6PNUsMcfG)**. The complete project can also be found in Dave Ebbelaar's **[Youtube Channel](https://www.youtube.com/watch?v=cCONIdrM2VI&list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K)** or alternatively you can click here for further references.
 
-- **Code Reference: This repository is based on the book "Machine Learning for the Quantified Self" by Mark Hoogendoorn and Burkhardt Funk, published by Springer in 2018. The code is available on GitHub.
+- **Code Reference: This repository is based on the book **["Machine Learning for the Quantified Self"](https://ml4qs.org/)** by **Mark Hoogendoorn and Burkhardt Funk**, published by **Springer in 2018**. The code is available on **[GitHub](https://ml4qs.org/)**.
 
 - **License: The code is made available under the GNU public license. Please cite the book in your publications:
 Hoogendoorn, M., & Funk, B. (2018). Machine Learning for the Quantified Self – On the Art of Learning from Sensory Data. Springer.
-
 
 
