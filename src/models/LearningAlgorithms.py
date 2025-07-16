@@ -7,6 +7,8 @@
 #                                                            #
 ##############################################################
 
+# Referenced From Dave Ebbelaar's Project
+
 from sklearn.neural_network import MLPClassifier
 from sklearn.svm import SVC
 from sklearn.svm import LinearSVC
